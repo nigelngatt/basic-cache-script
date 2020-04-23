@@ -1,6 +1,6 @@
 <?php
 /**
-* @Copyright MIT License / No copying
+* @Copyright MIT License
 * @Author Nigel Gatsfield
 * @Version 1.0
 * @Revision 2019-03-08 16:30
